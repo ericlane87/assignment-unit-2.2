@@ -7,10 +7,10 @@
 
 
 // 0. WRITE YOUR DESCRIPTION HERE
-// //EXAMPLE. We make a variable called number and set it to 1 as a number.
-// Then we increment the number variable. Number is now 2.
-// We check if number is greater than or equal to 2. 2 is equal to 2, so
-// we console.log 'yes'.
+// the value of 1 is assigned to number varible 
+// the varible nuumber is increased by 1
+// Validate if number is greater than equal to 2. If ths is ture console prints yes.  
+//This code  would print yes 
 
 //CODE
 /*
@@ -26,10 +26,10 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// The string of Dane is assigned to varible  name name 
+// We elvuate is name is === to mary 
+// if its not the else statment is ran and prints "how do you do in the console"
+//This code would print how do you do. 
 
 //CODE
 /*
@@ -45,10 +45,10 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// created a undefined valible called secret and a number varible called code and assignes the value of 123 to it. 
+// The varible code is validates if  it is equal to 123  if so it assians a string value to sreate of "super ".  and multipes the varible code by two. 
+// the next if statment validates if code is greater than 250, if true it changes the value of screate to 'duper'
+//The code would  print super. 
 
 //CODE
 /*
@@ -70,10 +70,10 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// two number varible and a bool varible are assined 
+// the first is evlauted and if ture  it  prints a  string , if fales the two else if state are evaluated to see if one is true.  
+// if no  else if statment is ture ,the  else statment is ran. 
+// this code would  print "welcome to prime"
 
 //CODE
 /*
@@ -122,8 +122,8 @@ if (number >= 2) {
 }
 
 */
-
-
+//set the value of  colorone to blue and the  value of color two to red. 
+// at line 139 insert code "ColorTwo = purple"
 
 //4. We start with three variables -- colorOne is set to 'blue' and 
 // colorTwo is set to 'red', and mix is set to true. We check if mix is true 
@@ -139,6 +139,9 @@ if (mix === true) {
 }
 */
 
+//
+// the or || condtion should be  changed to a && condtion in the if statment
+
 //5. We start with two variables -- temp is set to 40 and time is set to 4.
 // We check if temp is higher than 39 and if time is greater or equal to  4 
 // -- they are so we console.log 'throw away the food!'
@@ -151,7 +154,7 @@ if (temp > 39 || time >= 4) {
   console.log('throw away the food!');
 }
 */
-
+//  the  console logs for each statment  need to be switched. 
 //6. We start with two variables -- age is set to 21 and minAge is set to 21.
 // We check if age is greater than or equal to minAge 
 // -- it is, so we console.log 'enter'.
